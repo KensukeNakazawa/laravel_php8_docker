@@ -15,3 +15,6 @@ php8とlaravel8を使うためのdocker環境です
 
 # 環境構築コマンド
 > make set-up
+
+http://127.0.0.1:8000/
+へアクセス
