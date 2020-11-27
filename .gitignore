@@ -1,3 +1,4 @@
 ./App/php8/vendor/
 ./App/php8/node_modules/
 ./App/php8/.env
+./App/php8/storage/
